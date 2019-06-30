@@ -6,4 +6,5 @@ adding new tables to get product description --version 1
 
 >>>>>>> Stashed changes
 
-adding foreign keys to table --version 2 
+adding foreign keys to table --version 2
+adding Primary keys to table for fasten excution time --version 3
