@@ -1,0 +1,9 @@
+Its block of code to fetch product information from DB 
+Based on user input related products will be fetched from DB server.
+<<<<<<< Updated upstream
+adding new tables to get product description --version 1
+=======
+
+>>>>>>> Stashed changes
+
+adding foreign keys to table --version 2 
