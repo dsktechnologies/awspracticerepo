@@ -1,0 +1,2 @@
+daily scripts excution console details will be captured here
+
